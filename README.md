@@ -5,6 +5,6 @@ Automatic Multi Bruteforcing Facebook Account !
 $ pkg install python
 $ pkg install git
 $ git clone https://github.com/xijurg/auto-mbf
-$ cd xijurg
+$ cd auto-mbf
 $ python ambf.py
 ````
