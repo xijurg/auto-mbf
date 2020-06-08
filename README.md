@@ -1,5 +1,8 @@
 # auto-mbf
-Automatic Multi Bruteforcing Facebook Account !
+Multi Bruteforcing Facebook
+- multi processing
+- auto generate passwordlist
+
 # install
 ````
 $ pkg install python
